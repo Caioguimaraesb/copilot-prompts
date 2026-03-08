@@ -8,7 +8,7 @@
 
 * [Prompt 1: Entrevistador de Carreira](https://github.com/Caioguimaraesb/copilot-prompts/blob/main/AGENT%201%20-%20Entrevistador%20de%20Carreira%20em%20Tecnologia) — Responsável pela análise de perfil.
 * [Prompt 2: Planejador de Carreiras](https://github.com/Caioguimaraesb/copilot-prompts/blob/main/AGENT%202%20-%20Planejador%20de%20Carreiras) — Responsável pelo roteiro de estudos.
--
+
 O primeiro prompt faz a IA agir como entrevistador para saber qual carreira sugerir. <br>
 
 O segundo serve para planejar a carreira, com sugestões de conteúdo para estudo.
