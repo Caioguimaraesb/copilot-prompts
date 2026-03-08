@@ -1,6 +1,6 @@
 
 
-## 💻 Conforme proposto no bootcamp sobre Copilot e IA da DIO, este projeto consiste em, através de dois prompts (que podem se tornar agentes, mas no caso foram utilizados apenas como prompts no Gemini), usar a inteligência artificial para descobrir qual carreira em tecnologia seguir.
+## 💻 Conforme proposto no bootcamp ministrado pela DIO: "CAIXA - Inteligência Artificial na Prática", este projeto consiste em, através de dois prompts (que podem se tornar agentes, mas no caso foram utilizados apenas como prompts no Gemini), usar a inteligência artificial para descobrir qual carreira em tecnologia seguir.
 
 
 -
